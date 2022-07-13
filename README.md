@@ -11,3 +11,4 @@ The instructor's name is Scott Dossey
 *Elizabeth Merrill
 * ryan bowden
 * James Brewer
+* Tatiana Martinez
